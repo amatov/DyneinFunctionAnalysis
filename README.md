@@ -4,5 +4,5 @@
 
 #### Ge Yang, Lisa Cameron, Paul Maddox, Ted Salmon, Gaudy Danuser "Regional Variation of Microtubule Flux Reveals Microtubule Organization in the Metaphase Meiotic Spindle (2008)"
 
-#### Ben Houghtaling, Ge Yang, Alex Matov, Gaudy Danuser, Tarun Kapoor "Op18 Reveals the Contribution of Non-Kinetochore Microtubules to the Dynamic Organization of the Vertebrate Meiotic Spindle (2009)"
+#### Jay Gatlin, Alex Matov, Aaron Groen, Dan Needleman, Tom Maresca, Gaudy Danuser, Tim Mitchison, Ted Salmon "Spindle Fusion Requires Dynein-Mediated Sliding of Oppositely Oriented Microtubules (2009)"
 
