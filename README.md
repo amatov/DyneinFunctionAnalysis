@@ -1,5 +1,7 @@
 ## DyneinFunctionAnalysis
 
+The Matlab code I wrote to compute the extent of the spindle poles by solving systems of linear Diophantine equations.
+
 ## Quick start
 
 This repository implements spindle-pole tracking and geometry analysis
@@ -20,9 +22,7 @@ requirement. Each script prompts interactively for its input image(s).
 
 ## About
 
-Dynein function analysis
-
-The Matlab code I wrote in summer 2007 in Woods Hole, MA to compute the extend of the spindle poles by solving systems of linear Diophantine equations for the publications:
+My work on the extent of the spindle poles by solving systems of linear Diophantine equations for the publications:
 
 Ge Yang, Lisa Cameron, Paul Maddox, Ted Salmon, Gaudy Danuser "Regional Variation of Microtubule Flux Reveals Microtubule Organization in the Metaphase Meiotic Spindle" (2008) and Jay Gatlin, Alex Matov, Aaron Groen, Dan Needleman, Tom Maresca, Gaudy Danuser, Tim Mitchison, Ted Salmon "Spindle Fusion Requires Dynein-Mediated Sliding of Oppositely Oriented Microtubules" (2009) 
 
