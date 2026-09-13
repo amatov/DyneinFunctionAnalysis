@@ -1,4 +1,4 @@
-## DyneinFunctionAnalysis
+## Dynein Function Analysis
 
 The Matlab code I wrote to compute the extent of the spindle poles by solving systems of linear Diophantine equations.
 
