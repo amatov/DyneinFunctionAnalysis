@@ -3,7 +3,7 @@
 ## Quick start
 
 This repository implements spindle-pole tracking and geometry analysis
-for the meiotic spindle in MATLAB. See
+for the meiotic spindle in Matlab. See
 [DEPENDENCIES.md](DEPENDENCIES.md) for the Image Processing Toolbox
 requirement. Each script prompts interactively for its input image(s).
 

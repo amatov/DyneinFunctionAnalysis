@@ -1,9 +1,9 @@
 # Dependencies
 
-No specific MATLAB version is recorded. The scripts use `imshow`,
-`edge`, `bwlabel`, `regionprops`, and `imfill`, which require MATLAB's
+No specific Matlab version is recorded. The scripts use `imshow`,
+`edge`, `bwlabel`, `regionprops`, and `imfill`, which require Matlab's
 **Image Processing Toolbox**. `ginput`, `imread`, and `uigetfile` are
-core MATLAB.
+core Matlab.
 
 ## Input/output
 
