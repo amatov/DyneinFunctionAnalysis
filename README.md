@@ -1,3 +1,5 @@
+## DyneinFunctionAnalysis
+
 ## Quick start
 
 This repository implements spindle-pole tracking and geometry analysis
@@ -13,7 +15,7 @@ requirement. Each script prompts interactively for its input image(s).
   `lineIntersect.m` to solve for pole positions via systems of linear
   Diophantine equations.
 - `fsmPrepScaleSpace.m` -- a scale-space speckle-segmentation script.
-- `media/` -- an example video.
+- [`media/`](media/) -- an example video.
 - **License:** see [LICENSE](LICENSE) -- research/educational use.
 
 ## About
